@@ -1,7 +1,10 @@
 docker
 ======
 
-Different Dockerfile
-- ElasticSearch 1.4.2 container
-- COMING SOON : nodeJS container
-- COMING SOON : nodeJS and elasticsearch container
+Different Dockerfile to build Docker images :
+- COMING SOON : Alfresco 5.0.c image
+- ElasticSearch 1.4.2 iamge
+- NodeJS image
+- Tomcat 7 image
+
+All images are pushed to Docker hub : https://registry.hub.docker.com/repos/mlagneaux/
