@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER mlagneaux <mlagneaux@gmail.com>
+MAINTAINER mlagneaux
 
 RUN apt-get update
 RUN apt-get install -y curl

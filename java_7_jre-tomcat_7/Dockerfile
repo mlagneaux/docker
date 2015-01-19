@@ -1,5 +1,5 @@
 FROM java:7-jre
-MAINTAINER mlagneaux <mlagneaux@gmail.com>
+MAINTAINER mlagneaux
 
 RUN	apt-get update
 RUN	apt-get install -y wget

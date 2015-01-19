@@ -1,5 +1,5 @@
 FROM java
-MAINTAINER mlagneaux <mlagneaux@gmail.com>
+MAINTAINER mlagneaux
 
 RUN apt-get install -y software-properties-common
 RUN wget -qO - https://packages.elasticsearch.org/GPG-KEY-elasticsearch | apt-key add -

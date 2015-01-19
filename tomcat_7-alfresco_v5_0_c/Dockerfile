@@ -1,5 +1,5 @@
 FROM mlagneaux/java_7_jre-tomcat_7
-MAINTAINER mlagneaux <mlagneaux@gmail.com>
+MAINTAINER mlagneaux
 
 #---------------------------#
 # Install required packages #
